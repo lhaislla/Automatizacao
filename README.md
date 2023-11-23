@@ -12,7 +12,7 @@ Bem-vindo ao repositório de automatização de indicadores! Este projeto visa a
 
 Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Se você tiver ideias, melhorias ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
 
-## Imagem Ilustrativa
+## Menu para Atualização
 
 Aqui está uma captura de tela do menu indicador para dar uma ideia visual do projeto:
 
