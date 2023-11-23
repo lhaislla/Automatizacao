@@ -1,1 +1,54 @@
+# Projeto de Automatização do indicador de fechamento de Custo
+
+ Este projeto contém scripts e arquivos que facilitam a automatização de processos relacionados a custos, integração com o SAP e outras funcionalidades.
+
+## Scripts Python
+
+### Script_custo.py
+- Script de tratamento do arquivo  do arquivo Custo.xls, que foi extraído do SAP, neste script ocorre a formatação das linhas. 
+
+
+### Script_fechamento.py
+- Script Para salvar o relatório tratado na planilha de Fechamento de custo
+
+
+### Script_funcoes_custo.py
+- Script completo para extração dos dados do SAP.
+
+
+### Script_python.py
+- Script para extração dos dados do SAP utilizando o Python.
+
+### Script_sap.py
+- Script para extração dos dados do SAP.
+
+### integracao_sap.py
+- [Código do Script](./integracao_sap.py)
+
+## Script VBA
+- Modelo do arquivo completo a ser executado como Macro no VBA. 
+
+### Script_vba_integrado.vb
+- Arquivo completo a ser executado como Macro no VBA, sem a exclusão do arquivo na pasta antes de baixar o arquivo SAP. 
+
+
+## Arquivos Excel
+
+### classe.xlsx
+- Arquivo com a classificação e tipagem dos materiais.
+
+### remover.xlsx
+- Arquivo de limpeza dos materiais.
+
+### custo.xls
+- Arquivo extraído do SAP.
+
+### df_resultado.xlsx
+- Arquivo após o tratamento e cassificação dos materiais.
+
+## Outros Arquivos
+
+### logica.txt
+- Exemplo de como extrair aquivo do SAP.
+
 
