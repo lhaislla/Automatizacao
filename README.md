@@ -8,10 +8,6 @@ Bem-vindo ao repositório de automatização de indicadores! Este projeto visa a
 
 - **Macros no VBA:** As Macros no VBA são usadas para automatizar tarefas específicas, proporcionando uma automação mais avançada e personalizada.
 
-## Como Contribuir
-
-Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Se você tiver ideias, melhorias ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
-
 ## Menu para Atualização
 
 Aqui está uma captura de tela do menu indicador para dar uma ideia visual do projeto:
@@ -23,5 +19,10 @@ Aqui está uma captura de tela do menu indicador para dar uma ideia visual do pr
 - **Dentro da pasta Automatizacao,abra o arquivo Menu_Automatizacao**
 - **Escolha o mês e o ano**
 - **Clique no icone de setas ao lado  de Atualizar Relatório.**
-- **Faça login no SAP e aguarde.** 
+- **Faça login no SAP e aguarde.**
+
+## Como Contribuir
+
+Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Se você tiver ideias, melhorias ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
+
 ---
