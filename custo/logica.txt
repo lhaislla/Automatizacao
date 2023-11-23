@@ -1,0 +1,18 @@
+P99
+
+apaga 6 linhas horizontais vazia
+apaga 2 colunas verticais = apaga as colunas sem cabeçalho, a coluna T.val eDocumento SD, Prç.padrão	PrçIntPer.	Tipo de material	
+
+apaga apartir das linhas onde a coluna      Val.total éo maior valor da coluna e a linha anterior é vazia
+coloca a coluna Tetxo breve material como segunda coluna
+
+Cria a coluna 
+Ano mês, como o dia e o mês atual
+
+
+Boa tarde! Segue os indicadores de matéria prima referentes ao dia 02/10/2023.
+
+MP abaixo do estoque mínimo:
+
+MP acima do estoque máximo:
+
