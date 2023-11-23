@@ -22,6 +22,6 @@ Aqui está uma captura de tela do menu indicador para dar uma ideia visual do pr
 - **Baixe as pastas Automatizacao e custo**
 - **Dentro da pasta Automatizacao,abra o arquivo Menu_Automatizacao**
 - **Escolha o mês e o ano**
-- **Clique no icone de setas abaixo de Atualizar.**
+- **Clique no icone de setas ao lado  de Atualizar Relatório.**
 - **Faça login no SAP e aguarde.** 
 ---
