@@ -1,54 +1,48 @@
-# Projeto de Automatização do indicador de fechamento de Custo
+# Projeto de Automatização do Indicador de Fechamento de Custo
 
- Este projeto contém scripts e arquivos que facilitam a automatização de processos relacionados a custos, integração com o SAP e outras funcionalidades.
+Este projeto visa facilitar a automatização de processos relacionados a custos, integração com o SAP e outras funcionalidades.
 
-## Scripts Python
+## Descrição dos Scripts Python
 
 ### Script_custo.py
-- Script de tratamento do arquivo  do arquivo Custo.xls, que foi extraído do SAP, neste script ocorre a formatação das linhas. 
-
+- Realiza o tratamento do arquivo `Custo.xls` extraído do SAP, formatando as linhas.
 
 ### Script_fechamento.py
-- Script Para salvar o relatório tratado na planilha de Fechamento de custo
-
+- Salva o relatório tratado na planilha de Fechamento de Custo.
 
 ### Script_funcoes_custo.py
-- Script completo para extração dos dados do SAP.
-
+- Contém funções para a extração completa dos dados do SAP.
 
 ### Script_python.py
-- Script para extração dos dados do SAP utilizando o Python.
+- Utiliza Python para extrair dados do SAP.
 
 ### Script_sap.py
-- Script para extração dos dados do SAP.
+- Realiza a extração de dados do SAP.
 
 ### integracao_sap.py
 - [Código do Script](./integracao_sap.py)
 
-## Script VBA
-- Modelo do arquivo completo a ser executado como Macro no VBA. 
+## Descrição do Script VBA
 
 ### Script_vba_integrado.vb
-- Arquivo completo a ser executado como Macro no VBA, sem a exclusão do arquivo na pasta antes de baixar o arquivo SAP. 
-
+- Modelo completo a ser executado como Macro no VBA.
 
 ## Arquivos Excel
 
 ### classe.xlsx
-- Arquivo com a classificação e tipagem dos materiais.
+- Classificação e tipagem dos materiais.
 
 ### remover.xlsx
-- Arquivo de limpeza dos materiais.
+- Arquivo para limpeza dos materiais.
 
 ### custo.xls
 - Arquivo extraído do SAP.
 
 ### df_resultado.xlsx
-- Arquivo após o tratamento e cassificação dos materiais.
+- Resultado após o tratamento e classificação dos materiais.
 
 ## Outros Arquivos
 
 ### logica.txt
-- Exemplo de como extrair aquivo do SAP.
-
+- Exemplo de como extrair arquivos do SAP.
 
