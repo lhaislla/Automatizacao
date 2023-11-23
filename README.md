@@ -19,9 +19,9 @@ Aqui está uma captura de tela do menu indicador para dar uma ideia visual do pr
 ![Menu Indicador](./Menu_indicador.PNG)
 
 ## Como executar?
-- **Baixe as pastas Automatizacao e custo
-- **Dentro da pasta Automatizacao,abra o arquivo Menu_Automatizacao
-- **Escolha o mês e o ano
-- **Clique no icone de setas abaixo de Atualizar.
-- **Faça login no SAP e aguarde. 
+- **Baixe as pastas Automatizacao e custo**
+- **Dentro da pasta Automatizacao,abra o arquivo Menu_Automatizacao**
+- **Escolha o mês e o ano**
+- **Clique no icone de setas abaixo de Atualizar.**
+- **Faça login no SAP e aguarde.** 
 ---
