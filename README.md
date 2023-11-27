@@ -12,7 +12,7 @@ Bem-vindo ao repositório de automatização de indicadores! Este projeto visa a
 
 Aqui está uma captura de tela do menu indicador para dar uma ideia visual do projeto:
 
-![Menu Indicador](./Menu_indicador.PNG)
+![Menu Indicador](./Menu_indicador1.PNG)
 
 ## Como executar?
 - **Baixe as pastas Automatizacao e custo**
